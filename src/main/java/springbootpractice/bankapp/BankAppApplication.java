@@ -1,3 +1,4 @@
+
 package springbootpractice.bankapp;
 
 import org.springframework.boot.SpringApplication;
